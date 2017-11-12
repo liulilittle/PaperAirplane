@@ -1,0 +1,7 @@
+LIBRARY PaperAirplane
+
+DESCRIPTION		"PaperAirplane Layered And Namespace Service Provider"
+
+EXPORTS
+	WSPStartup @1
+	NSPStartup @2
