@@ -5,6 +5,7 @@
   installer的代码主要适用于relay server；不过你可以简单修改一下installer目录中的lsp.cpp文件内的ProviderId为connect、send的代码内的ProviderId就可以了；
 <br />
 实现方式：
+<br />
 connect         从链接地址上实现
 <br />
 send            从发送数据上实现
